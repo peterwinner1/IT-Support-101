@@ -1,0 +1,6 @@
+Account Locks in ARS / Active Directory
+Account being locked would cause users to be unable to sign into their devices, accounts, etc. 
+IN ARS (Active Roles Server) this would mean that when you search their username it would show a orange lock icon
+To unlock account, select the account, and their should be an option to unlock
+Advise user to refresh application or get user to sign in again
+Issue should be resolved however if issue reoccurs it could be an indicator of password sync failure
