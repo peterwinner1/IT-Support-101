@@ -1,0 +1,19 @@
+Monitor Hardware support ("My screen does not turn on but it did yesterday")
+This is a common hardware issue in the IT world. 
+Ask clarifying questions (Why, what, when, who, etc) 
+Once that is established
+Go through basic troubleshooting procedure
+  Turn on and off
+  Ensure cables are plugged in
+  Ensure client is plugged into correct port on laptop
+  Confirm that changes have not been made
+If changes have not been made and all above have been tried and do not work, hard reset device
+Unplug all cables to device
+For lenovo laptops, use pin needle or small thin object to plug in button on back of laptop (should make a clicking noise or feeling)
+For dell laptops, hold power button for atleast 15 seconds
+After, turn on laptop and plug in cords
+If monitor continues to not work, 
+Delete drivers using registry and device manager (with cords unattached)
+Replug cords in
+Client should be able to use monitor like normal and if issue persist
+Client needs to try another cable and or consult company for replacement monitor.
