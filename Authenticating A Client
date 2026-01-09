@@ -1,0 +1,9 @@
+This will demonstrate the basic topics or know hows of authenticating a client, and how it changes if they are a contractor or a full time employee (FTE worker)
+This is using kind of banking standards and procedure may vary from company to company
+Contractor: Authenticate using contractor portal (in this case IdentityIQ) using a text SMS verification code, if not available escalate to access management team/ and or appropriate team to add number
+For temporary authentication; use their contractor ID, or login ID search client. (For this particular bank, contractors are not issued work ID numbers)
+Varify using atleast 3 bits of information not limited to: Supervisor name, DOB, Last 4 of social, and if needed, you may contact manager for confirmation
+FTE: You may use FTE specific authentication application), Search them using their issued workers ID number as well confirming the same other bits of information listed above
+
+Process goes as such
+Ask if client is FTE or Contractor, go to contractor or FTE authetication application, Get UserID (thats first authentication to even pull up client), authenticate client, proceed to next steps for troubleshooting process. 
